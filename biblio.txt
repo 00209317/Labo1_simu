@@ -1,0 +1,9 @@
+Use cada uno de los siguientes link para la ayuda de mi tarea y para comprobar mi respuesta :d
+
+https://matrixcalc.org/es/#%7B%7B2,2,3%7D,%7B4,5,6%7D,%7B7,8,9%7D%7D%5E%28-1%29
+
+https://github.com/Sortweste/-TSC-Laboratorio1
+
+https://matematicasmodernas.com/matriz-inversa-por-cofactores/
+
+https://www.youtube.com/watch?v=ZDiZUrfG_MI&t=609s
